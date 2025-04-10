@@ -1,4 +1,4 @@
-# 📊 Data Science with Python 🐍
+# 📊 Data Science with Python🐍
 
 Welcome to the **Data Science with Python** repository! This is your all-in-one resource to **learn, practice, and explore** the world of data science using Python — one of the most powerful and widely-used languages in the field. 🚀
 
